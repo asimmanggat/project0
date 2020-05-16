@@ -1,0 +1,36 @@
+table{
+        border: 2px solid black;
+        border-collapse: collapse;
+        width: 50%;
+        text-align: center;
+    }
+
+th, td{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th{
+    background-color: lightgray;
+}
+
+#top {
+    font-size: 36px;
+}
+
+#middle {
+    font-size: 24px;
+}
+#bottom {
+    font-size: 12px;
+}
+
+.name{
+    color:darkviolet;
+}
+.middle{
+    color:darkcyan;
+}
+.bottom{
+    color:darkred;
+}
